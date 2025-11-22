@@ -6,7 +6,7 @@ Questionnaire: https://v.wjx.cn/vm/YHxsbyp.aspx#
 Account & Password
 o	Username/Email: 1785098776@qq.com
 o	Password: Edison777
-Demo video 链接
-Promo video 链接
+Demo video 链接 https://youtu.be/KXsq4B2v-Ho
+Promo video 链接 https://youtube.com/shorts/ZTBK7ID7Nns
 用户测试总结
 文件结构说明
